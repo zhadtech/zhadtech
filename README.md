@@ -19,6 +19,10 @@ Welcome to my GitHub profile! I’m a technical leader passionate about designin
 
 ⸻
 
+## 📈 GitHub Stats  
+![Zhadtech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhadtech&show_icons=true&theme=radical)
+
+---
 📫 Let’s Connect  
 	•	📩 Best Contact: GitHub Issues/Discussions (for now)  
 	•	🧠 Open for: Collaboration on scalable systems, self-hosting infrastructure, and automation tools  
