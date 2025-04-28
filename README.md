@@ -1,10 +1,35 @@
-• 👋 Hi, I’m zhad — a backend engineer with a focus on scalable, clean, and cost-effective systems.  
-• 👀 I’m interested in backend architecture, productivity tech, infrastructure automation, and human behavior psychology.  
-• 🌱 I’m currently learning advanced cloud-native development, system design at scale, and high-impact content creation.  
-• 💞️ I’m looking to collaborate on open-source tools related to productivity, habit-building, personal infrastructure, and AI-assisted systems.  
-• 📫 You can reach me via GitHub messages for now.  
+Hi there 👋, I’m Zhad!
 
-<!---
-zhadtech/zhadtech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I’m a technical leader passionate about designing scalable systems, engineering efficient data workflows, and building tools that empower people and businesses. Here’s a little more about me:
+
+⸻
+
+🧑‍💻 About Me  
+	•	💼 Profession: Lead Backend Engineer | Technical Lead | Solution Architect | Principle Engineer  
+  •	🧠 Expertise: Cloud-native architecture, backend engineering, data automation, team scaling, and system optimization  
+	•	🌱 Currently Learning: Productivity engineering, AI-assisted Automation, AI-driven system design, System Scalability Patterns  
+	•	🔭 Working On: Open-source frameworks for backend acceleration, personal cloud productivity stacks, and self-hosting templates for individuals and startups  
+
+🚀 My Core Skills  
+	•	Backend & Infrastructure: Python (FastAPI, Sanic), Go, Node.js, Docker, GitHub Actions, Terraform  
+	•	Cloud & Scalability: AWS (EC2, S3, Lambda, Redshift), GCP (BigQuery, Vertex AI, Cloud Functions)  
+	•	Data Systems: PostgreSQL, MongoDB, DynamoDB, Airflow, dbt, monstache  
+	•	Architecture Design: Monolith to Microservices Migration, CI/CD Implementation, Cloud Cost Optimization  
+	•	Automation & Intelligence: AI-assisted document processing, ETL/ELT Pipelines, Data Analytics (Tableau, Google Analytics)  
+
+⸻
+
+📫 Let’s Connect  
+	•	📩 Best Contact: GitHub Issues/Discussions (for now)  
+	•	🧠 Open for: Collaboration on scalable systems, self-hosting infrastructure, and automation tools  
+
+⸻
+
+🌟 Fun Fact  
+
+✨ I engineer backend systems the way architects build bridges — reliable, scalable, and made to last through storms.  
+
+⸻
+
+Thanks for stopping by!
+If you’re passionate about scalable systems, cloud-native solutions, or want to build tools that truly matter, feel free to reach out. Let’s build the future together. 🚀
