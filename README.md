@@ -1,12 +1,12 @@
 Hi there 👋, I’m Zhad!
 
-Welcome to my GitHub profile! I’m a technical leader passionate about designing scalable systems, engineering efficient data workflows, and building tools that empower people and businesses. Here’s a little more about me:
+Welcome to my GitHub profile! I’m passionate about designing scalable systems, engineering efficient data workflows, building productivity tools that empower people and businesses. Here’s a little more about me:
 
 ⸻
 
 🧑‍💻 About Me  
 	•	💼 Profession: Lead Backend Engineer | Technical Lead | Solution Architect | Principle Engineer  
-  •	🧠 Expertise: Cloud-native architecture, backend engineering, data automation, team scaling, and system optimization  
+  	•	🧠 Expertise: Cloud-native architecture, backend engineering, data automation, team scaling, and system optimization  
 	•	🌱 Currently Learning: Productivity engineering, AI-assisted Automation, AI-driven system design, System Scalability Patterns  
 	•	🔭 Working On: Open-source frameworks for backend acceleration, personal cloud productivity stacks, and self-hosting templates for individuals and startups  
 
@@ -26,12 +26,6 @@ Welcome to my GitHub profile! I’m a technical leader passionate about designin
 📫 Let’s Connect  
 	•	📩 Best Contact: GitHub Issues/Discussions (for now)  
 	•	🧠 Open for: Collaboration on scalable systems, self-hosting infrastructure, and automation tools  
-
-⸻
-
-🌟 Fun Fact  
-
-✨ I engineer backend systems the way architects build bridges — reliable, scalable, and made to last through storms.  
 
 ⸻
 
